@@ -1,4 +1,6 @@
 # DangerousSpamWords
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdudy5%2FDangerousSpamWords.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdudy5%2FDangerousSpamWords?ref=badge_shield)
+
 :notes:最轻的敏感词库，低误识别率  
 80%的命中率，精简的内容，大大减小服务器负担，不再需要遍历一个数万行的文本了
 
@@ -28,3 +30,7 @@ https://www.stackoverflow.wiki/spam.do
 https://www.stackoverflow.wiki/spam.do?words=sb&replaceTo=*  
 可能出现的问题:  
 如果内容含有HTML标签, 浏览器转换后可能会直接将其解析为HTML标签, 所以可以使用JS的innerText()方法和JQuery的text()方法显示原始结果.  
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdudy5%2FDangerousSpamWords.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdudy5%2FDangerousSpamWords?ref=badge_large)
